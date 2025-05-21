@@ -11,3 +11,9 @@
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/plain.svg"></img>
   <img align="center" alt="REACT" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg"></img>
 </div>
+
+##
+
+<div>
+  <a href= "mailto:bhsmatos28@gmail.com"> <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target= "_blank"></a>
+</div>
