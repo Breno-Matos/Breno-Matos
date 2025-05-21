@@ -6,6 +6,8 @@
 </div>
 
 <div style="display: inline_block"> <br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/original.svg" />
-  <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/original.svg" />        
+  <img align="center" alt="HTML" height="30" width="40" src="https://devicon-website.vercel.app/api/html5/plain.svg" />
+  <img align="center" alt="CSS" height="30" width="40" src="https://devicon-website.vercel.app/api/css3/plain.svg" /> 
+  <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://devicon-website.vercel.app/api/javascript/plain.svg"></img>
+  <img align="center" alt="REACT" height="30" width="40" src="https://devicon-website.vercel.app/api/react/original-wordmark.svg"></img>
 </div>
