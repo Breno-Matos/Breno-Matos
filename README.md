@@ -1,4 +1,8 @@
-## Bem-vindo(a) ao perfil do Breno Henrique 👋
+## Bem-vindo(a) ao meu perfil 👋
+
+Prazer me chamo Breno Henrique e se você chegou até aqui é por que está interessado em saber um pouco mais sobre mim e meus projetos.
+Sou formado em Sistemas de Informação e atualmente trabalho com suporte de computadores, estou em transição de carreira e busco meu espaço na área de programação por isso fiz esse perfil com alguns projetos que criei ao longo da minha jornada de aprendizagem. 
+Espero que gostem do meu perfil e caso tenham interesse estou à disposição para uma entrevista 😀
 
 <div>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=Breno-Matos&show_icons=true&theme=tokyonight&include_all_commits=true&count_privare=true"/>
